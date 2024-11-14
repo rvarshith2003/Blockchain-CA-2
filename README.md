@@ -1,1 +1,3 @@
 # Blockchain-CA-2
+**Implement a smart contract that allows users to deposit and withdraw Ether. Ensure that the contract prevents re-entrancy attacks by following a particular design pattern to structure state changes and interactions with external addresses securely.
+Explain the design choices that you took that prevent re-entry.**
